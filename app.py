@@ -69,7 +69,7 @@ Analyze the provided medical report and return ONLY a valid JSON object with exa
 Return ONLY valid JSON. No markdown fences, no preamble."""
 
 # ── API Key ──────────────────────────────────────────────────
-GROQ_API_KEY = "gsk_your_groq_key_here"   # ← paste your FREE Groq key here
+GROQ_API_KEY = "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"   # ← paste your FREE Groq key here
                                             # Get it FREE at: https://console.groq.com
 
 # ── Helpers ──────────────────────────────────────────────────
